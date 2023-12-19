@@ -1,4 +1,4 @@
-# Voilence-Detection-Image-Dataset
+# Violence-Detection-Image-Dataset
 Violence Detection using deep learning
 Dataset link:-https://www.kaggle.com/datasets/karandeep98/real-life-violence-and-nonviolence-data?resource=download
 
